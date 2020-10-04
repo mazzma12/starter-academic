@@ -22,16 +22,16 @@ bio: I am a Data Scientist working in an earth observation analytics company bas
 
 interests:
 - Machine Learning
-- Satellite 
+- Remote Sensing 
 - Python
 - Climbing
 
 education:
   courses:
-  - course: Master in Machine Learning 
-    institution: ENS Cachan & Paris Dauphine University
+  - course: MSc in Data Science 
+    institution: École Normale Supérieure Paris-Saclay & Paris Dauphine
     year: 2017
-  - course: Bachelor in Applied Mathematics - background in economics and CS 
+  - course: BSc in Applied Mathematics and Computer Science 
     institution: Paris Dauphine University
     year: 2015
 
