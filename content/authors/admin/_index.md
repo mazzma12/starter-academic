@@ -69,7 +69,7 @@ user_groups:
 ---
 
 I enjoy working with large datasets of various type (satellite images and GIS data mostly) to solve complex problems. Recently I focused closely on Copernicus' constellation and the possibility to study methane emissions at a global scale.   
-Beside work, I am passionate about traveling and climbing. I spent 1 year abroad in Sweden studying math and 2 months in Russia interning in a small venture company. I am now focused on new climbing projects to achieve after first experiencing outdoor climbing this summer at the *Pic du Midi d'Ossau*. 
 
+Beside work, I am passionate about traveling and climbing. I spent a year abroad in Sweden studying in Lund and 2 months in Moscow interning in a small venture company. 
 
-In this blog I intend to share posts of various kind, not only about Machine Learning, but also other side project
+In this blog I intend to share posts of various kind, and not only focused on data science...
